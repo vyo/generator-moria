@@ -1,6 +1,6 @@
 {
   "name": "generator-moria",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create a lean app with Mithril and Skeleton",
   "homepage": "https://github.com/vyo/generator-moria#readme",
   "author": "Manuel Weidmann <weidmann.manuel@gmail.com> (https://github.com/vyo)",
