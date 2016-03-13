@@ -1,0 +1,16 @@
+{
+  "name": "<%= name %>",
+  "version": "<%= version %>",
+  "description": "<%= description %>",
+  "dependencies": {
+    "mithril": "^0.2.3",
+    "skeleton-css": "^2.0.4"
+  },
+  "repository": {
+    "type": "<%= repoType %>",
+    "url": "<%= repoUrl %>"
+  },
+  "author": "<%= author %>",
+  "license": "<%= license %>"
+}
+
