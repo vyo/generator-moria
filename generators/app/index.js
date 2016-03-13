@@ -57,6 +57,13 @@ module.exports = yeoman.Base.extend({
           },
           {
             type: 'input',
+            name: 'author',
+            message: 'Who shall we list as the author?',
+            default: username,
+            store: true
+          },
+          {
+            type: 'input',
             name: 'license',
             message: 'Which license do you want to apply?',
             default: 'ISC',
